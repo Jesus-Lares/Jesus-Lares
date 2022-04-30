@@ -15,7 +15,6 @@
 <br />
 [![Web](https://img.shields.io/badge/jesuslares.com-5865F2?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://jesuslares.com)
 
-<br />
 
 ## Skills:
 
