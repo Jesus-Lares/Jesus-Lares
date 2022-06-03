@@ -7,14 +7,14 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play piano
 
-## Connect with me:
+## More about me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-@j.lares00-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/j.lares00)
-<br />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jesusLares-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jesusLares)
 <br />
 [![Web](https://img.shields.io/badge/jesuslares.com-5865F2?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://jesuslares.com)
-
+<br />
+[![Codepen](https://img.shields.io/badge/Codepen-jesus_lares-7FFFD4?style=for-the-badge&logo=codepen&logoColor=white&labelColor=101010)](https://codepen.io/jesus-lares)
 
 ## Skills:
 
